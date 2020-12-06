@@ -39,6 +39,7 @@ public class Casting_04 {
 
         System.out.println((double)num2/num1);
 
+        //test 123456
 
     }
 
